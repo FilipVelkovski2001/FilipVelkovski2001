@@ -10,5 +10,5 @@ Hi I'm a Java Development student at Semos Education, my repositories right now 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=FilipVelkovski2001&count_private=true&show_icons=true&theme=midnight-purple)
-
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FilipVelkovski2001&countColorcountColor&countColor=%235a37dc)
 [![](https://img.shields.io/badge/linkedin-%235a37dc.svg?&style=for-the-badge)](https://www.linkedin.com/in/filip-velkovski-76a810219/)
