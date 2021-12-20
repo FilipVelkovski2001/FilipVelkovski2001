@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/postman%20-%23323330.svg?&style=for-the-badge&logo=postman&logoColor=%FFA500)
 
 <p align="center">
-  <a href="https://astennu.com"><img src="https://i.imgur.com/wxgkdGj_d.webp?maxwidth=128&shape=square"></a>
+  <a href="https://astennu.com"><img src="https://i.imgur.com/wxgkdGj.png"></a>
 </p>
 
 ## Allow me to Introduce Myself
