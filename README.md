@@ -5,7 +5,8 @@
 ## Allow me to Introduce Myself
 
 ```
-Hi I'm a Java Development student at Semos Education, my repositories right now are centered around the exercises and projects we do at Semos Education.
+Hi I'm a Java Development student at Semos Education.
+My repositories right now are centered around the exercises and projects we do at Semos Education.
 ```
 
 
