@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/spring%20-%23323330.svg?&style=for-the-badge&logo=spring&logoColor=%2300FF00)
 ![](https://img.shields.io/badge/postman%20-%23323330.svg?&style=for-the-badge&logo=postman&logoColor=%FFA500)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=postman&logoColor=%FFA500)
 
 <p align="center">
   <a href="https://astennu.com"><img src="https://i.imgur.com/wxgkdGj.png"></a>
